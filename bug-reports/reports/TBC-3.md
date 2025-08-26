@@ -1,5 +1,5 @@
 DevTools Bugs (TBC-2) \[TBC-3\] 
-**Failed to load resource**: net::ERR_NAME_NOT_RESOLVED 
+# Failed to load resource: net::ERR_NAME_NOT_RESOLVED 
 Created: 16/Jul/25 Updated: 17/Jul/25
 Resolved: 17/Jul/25 Status:DoneProject:Testing
 Booking.comComponents:None Affects versions:None Fix versions:None

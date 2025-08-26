@@ -2,7 +2,9 @@ DevTools Bugs (TBC-2) \[TBC-3\]
 # Failed to load resource: net::ERR_NAME_NOT_RESOLVED 
 Created: 16/Jul/25 Updated: 17/Jul/25
 Resolved: 17/Jul/25 Status:DoneProject:Testing
-Booking.comComponents:None Affects versions:None Fix versions:None
+Booking.com
+## Components:
+None Affects versions:None Fix versions:None
 Parent:DevTools Bugs Type: Bug Priority: Medium Reporter: ярослав
 николаев Assignee: ярослав николаев Resolution: Done Votes: 0 Labels:
 booking, console, debug, javascript Remaining Estimate:Not Specified
